@@ -4,7 +4,8 @@ Sử dụng thư viện ThreeJS để tạo những hiệu ứng với bất kì
 - Đổ bóng
 - Xoay
 - Nâng độ sáng!
-- 6 mẫu animation
+- 10 mẫu animation
+- Dùng để tạo ra các vật thể 3D 
 
 ......
 
